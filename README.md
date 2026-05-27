@@ -25,4 +25,4 @@ Code was also written to use the HC-SR04 ultrasonic sensor by capturing Timer 1.
 
 ## DEMONSTRATION VIDEO
 
-[![Watch the video.](https://i.ytimg.com/vi/j767Vno2sWc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC4V3vP72NeOXoasdxb1KNo5F0AAw)](https://www.youtube.com/watch?v=j767Vno2sWc&list=PLbIOfZlWBAartimPc_VM8JYFssb56drmH&index=8)
+[![Watch the video.](https://i.ytimg.com/vi/j767Vno2sWc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC4V3vP72NeOXoasdxb1KNo5F0AAw/0.jpg)](https://www.youtube.com/watch?v=j767Vno2sWc&list=PLbIOfZlWBAartimPc_VM8JYFssb56drmH&index=8)
